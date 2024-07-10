@@ -7,6 +7,25 @@
     "start": "tsc && node dist/app.js",
     "test": "jest"
   },
+  "keywords": [
+    "api",
+    "REST",
+    "automation",
+    "testing",
+    "component",
+    "service",    
+    "mocha",
+    "jest",
+    "mock",
+    "server",
+    "JSON",
+    "pactum",
+    "pactumjs",
+    "microservice",
+    "microservices",
+    "test",
+    "http"    
+  ],
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
